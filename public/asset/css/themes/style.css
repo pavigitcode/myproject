@@ -1,0 +1,159 @@
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.1/css/fontawesome.min.css">
+
+
+.buttons-export span i {
+    font-size: 18px;
+}
+.buttons-export span {
+    float: right;
+    padding: 10px;
+}
+a.text-center.view_mre {
+    margin-top: 38px;
+    padding-top: 34px;
+    text-decoration: underline;
+}
+.logo-name h5 {
+    font-weight: 800;
+    margin-bottom: 4px;
+}
+.logo-name h6 {
+    font-weight: 500;
+    letter-spacing: 4px;
+    word-spacing: 9px;
+}
+.vechi_img img {
+    width: 55px;
+}
+table .btn {
+    padding: 0.1rem 0.2rem;
+    line-height: 10px;
+    padding-top: 0.1rem;
+}
+.mrg-btm {
+    margin-bottom: 1rem;
+}
+.dropdown.mega-menu a.btn.text-muted {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: #333!important;
+}
+.ul-widget1.vehcil-deta .ul-widget__item {
+    padding: 5px;
+}
+.reve-img img {
+    width: 2rem;
+}
+.revenue p {
+    font-size: 18px;
+    font-weight: 900;
+    margin-bottom: 0px;
+    margin-bottom: 6px
+}
+a.eye-icom img {
+    width: 15%;
+    float: right;
+}
+a.ul-widget4__title {
+    color: #3594d5;
+    font-weight: 900;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+.revenue p span {
+    font-size: 18px;
+    font-weight: 900;
+    margin-bottom: 0px;
+}
+.cc1 {
+    text-align: initial;
+}
+.cc2 {
+    text-align: initial;
+}
+.cc3 {
+    text-align: initial;
+}
+a.eye-icom2 img {
+    width: 100%;
+}
+a.eye-icom2 {
+    width: 5%;
+}
+table.table.check-vechicle {
+    margin-bottom: 0px;
+}
+.card-header.header-elements-inline.chek-no-pad {
+    padding: 7px;
+}
+table.table.check-vechicle.vehilce-bg {
+    background: #003473;
+    color: #fff;
+}
+.chck-brd {
+    border: 1px solid #ccc;
+    border-radius: 0px;
+}
+.card-header.header-elements-inline.chek-no-pad {
+    padding: 0px 0px 7px;
+}
+.card.no-brd-rad {
+    border-radius: 0px;
+}
+table.table.check-vechicle tr td {
+    font-size: 14px;
+}
+table.table.check-vechicle tr th {
+    font-size: 14px;
+}
+h3.date {
+    font-size: 15px;
+    font-weight: 600;
+}
+.no-h3 {
+    font-size: 15px;
+}
+.ceh-h1 {
+    font-size: 15px;
+    margin-bottom: 0px;
+}
+.mo-mard {
+    padding-bottom: 5px;
+}
+h1, h2, h3, h4, h5, h6, .card-title, .text-title {
+    color: #332e38;
+    font-weight: 700;
+    font-size: 17px;
+}
+.spal-hed {
+    font-size: 15px;
+    font-weight: 600;
+}
+.buttons-export span {
+    padding: 10px;
+    margin-right: 10px;
+}
+
+.buttons-export span i {
+    font-size: 18px;
+    color: #fff;
+}
+.buttons-export {
+    float: left;
+    left: 38%;
+    position: relative;
+    top: 72%;
+}
+.ul-widget-s5__content {
+
+    width: 116px;
+    text-align: center;
+    margin: 0px auto;
+}
+a#dropdownMegaMenuButton img {
+    width: 21px;
+}
+.dropdown.mega-menu.d-none.d-md-block.show a {
+    color: #3594d5 !important;
+}

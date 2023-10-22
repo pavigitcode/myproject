@@ -1,0 +1,42 @@
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.1/css/fontawesome.min.css">
+
+
+a.text-center.view_mre {
+    margin-top: 38px;
+    padding-top: 34px;
+    text-decoration: underline;
+}
+.logo-name h5 {
+    font-weight: 800;
+    margin-bottom: 4px;
+}
+.logo-name h6 {
+    font-weight: 500;
+    letter-spacing: 4px;
+    word-spacing: 9px;
+}
+.vechi_img img {
+    width: 55px;
+}
+table .btn {
+    padding: 0.1rem 0.2rem;
+    line-height: 10px;
+    padding-top: 0.1rem;
+}
+.mrg-btm {
+    margin-bottom: 1rem;
+}
+.dropdown.mega-menu a.btn.text-muted {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: #333!important;
+}
+.reve-img img {
+    width: 2rem;
+}
+.revenue p {
+    font-size: 17px;
+    font-weight: 700;
+    margin-bottom: 4px;
+}
